@@ -1,0 +1,5 @@
+inteiro _a = 45
+inteiro _b = "H" 
+flutuador _As = "Hola" 
+main = 55
+enquanto += (enquanto) + 1
